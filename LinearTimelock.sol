@@ -2,7 +2,7 @@
 // WARNING this contract has not been independently tested or audited
 // DO NOT use this contract with funds of real value until officially tested and audited by an independent expert or group
 
-pragma solidity 0.8.11;
+pragma solidity 0.8.20;
 
 // SafeERC20
 // The following version of SafeERC20 is used.
